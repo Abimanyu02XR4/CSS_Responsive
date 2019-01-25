@@ -8,7 +8,7 @@ Supaya tampilan web kita bisa ditampilkan di smartphone ataupun laptop
 
 2. Bagaimana cara membuat web dengan responsive? Jelaskan!
     - Atur viewport pada pada halaman web tersebut
-    - Atur lebar untuk halaman web col- supaya tampilan web responsive terhadap device yang digunakan pengakses
+    - Atur lebar setiap col- untuk halaman web  supaya tampilan web responsive terhadap device yang digunakan pengakses
 3. Apa maksud dari kode "initial- scale=1.0” ?
   untuk mengatur skala tampilan web menjadi skala 1 banding 1
 
