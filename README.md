@@ -29,7 +29,6 @@ Supaya tampilan web kita bisa ditampilkan di smartphone ataupun laptop
 ![alt text](https://github.com/Abimanyu02XR4/CSS_Responsive/blob/master/8.png?raw=true)
 ![alt text](https://github.com/Abimanyu02XR4/CSS_Responsive/blob/master/9.png?raw=true)
 ![alt text](https://github.com/Abimanyu02XR4/CSS_Responsive/blob/master/10.png?raw=true)
-![alt text](https://github.com/Abimanyu02XR4/CSS_Responsive/blob/master/11.png?raw=true)
 ![alt text](https://github.com/Abimanyu02XR4/CSS_Responsive/blob/master/12.png?raw=true)
 ![alt text](https://github.com/Abimanyu02XR4/CSS_Responsive/blob/master/13.png?raw=true)
 ![alt text](https://github.com/Abimanyu02XR4/CSS_Responsive/blob/master/14.png?raw=true)
